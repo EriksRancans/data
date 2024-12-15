@@ -1,0 +1,32 @@
+{
+  "state": {
+    "isBrowser": true,
+    "isServer": false,
+    "location": {
+      "isBrowser": true,
+      "date": "2024-12-15",
+      "pathname": "/dashboard-new-calendar",
+      "hostname": "dashboard-stage.vilmer.no",
+      "host": "dashboard-stage.vilmer.no",
+      "path": ["new-calendar"]
+    },
+    "activities": {
+      "Mo": [{"id": 1, "name": "Team Meeting", "type": 2, "time": "10:00"}],
+      "Tu": [{"id": 2, "name": "Workshop", "type": 1, "time": "11:00"}],
+      "We": [{"id": 3, "name": "Client Presentation", "type": 3, "time": "14:00"}],
+      "Th": [{"id": 4, "name": "Marketing Review", "type": 2, "time": "16:00"}],
+      "Fr": [{"id": 5, "name": "Product Development Meeting", "type": 1, "time": "09:00"}],
+      "Sa": [{"id": 6, "name": "Strategy Session", "type": 3, "time": "10:00"}],
+      "Su": [{"id": 7, "name": "Budget Review", "type": 2, "time": "15:00"}]
+    },
+    "activityTypes": {
+      "1": "Meeting",
+      "2": "Review",
+      "3": "Presentation"
+    },
+    "activityView": "compact_week",
+    "isPrintView": false,
+    "isFullscreen": false,
+    "translations": {}
+  }
+}
