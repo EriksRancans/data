@@ -11,13 +11,33 @@
       "path": ["new-calendar"]
     },
     "activities": {
-      "Mo": [{"id": 1, "name": "Team Meeting", "type": 2, "time": "10:00"}],
-      "Tu": [{"id": 2, "name": "Workshop", "type": 1, "time": "11:00"}],
-      "We": [{"id": 3, "name": "Client Presentation", "type": 3, "time": "14:00"}],
-      "Th": [{"id": 4, "name": "Marketing Review", "type": 2, "time": "16:00"}],
-      "Fr": [{"id": 5, "name": "Product Development Meeting", "type": 1, "time": "09:00"}],
-      "Sa": [{"id": 6, "name": "Strategy Session", "type": 3, "time": "10:00"}],
-      "Su": [{"id": 7, "name": "Budget Review", "type": 2, "time": "15:00"}]
+      "Mo": [
+        {"id": 1, "titile": "Team Meeting", "type": 2, "time": "10:00"},
+        {"id": 2, "titile": "Client Check-In", "type": 1, "time": "13:00"}
+      ],
+      "Tu": [
+        {"id": 3, "titile": "Workshop", "type": 1, "time": "11:00"}
+      ],
+      "We": [
+        {"id": 4, "titile": "Client Presentation", "type": 3, "time": "14:00"},
+        {"id": 5, "titile": "Team Lunch", "type": 2, "time": "12:00"},
+        {"id": 6, "titile": "One-on-One", "type": 1, "time": "16:00"}
+      ],
+      "Th": [
+        {"id": 7, "titile": "Marketing Review", "type": 2, "time": "16:00"}
+      ],
+      "Fr": [
+        {"id": 8, "titile": "Product Development Meeting", "type": 1, "time": "09:00"},
+        {"id": 9, "titile": "End of Week Review", "type": 3, "time": "15:00"}
+      ],
+      "Sa": [
+        {"id": 10, "titile": "Strategy Session", "type": 3, "time": "10:00"},
+        {"id": 11, "titile": "Budget Planning", "type": 2, "time": "14:00"},
+        {"id": 12, "titile": "Team Building Activity", "type": 1, "time": "17:00"}
+      ],
+      "Su": [
+        {"id": 13, "titile": "Budget Review", "type": 2, "time": "15:00"}
+      ]
     },
     "activityTypes": {
       "1": "Meeting",
