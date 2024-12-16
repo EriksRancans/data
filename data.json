@@ -4,7 +4,7 @@
     "isServer": false,
     "location": {
       "isBrowser": true,
-      "date": "2024-12-15",
+      "date": "Dec. 15",
       "pathname": "/dashboard-new-calendar",
       "hostname": "dashboard-stage.vilmer.no",
       "host": "dashboard-stage.vilmer.no",
@@ -14,7 +14,7 @@
       "days": [
         {
           "dayName": "Monday",
-          "date": "2024-12-16",
+          "date": "Dec. 16",
           "activities": [
             {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/WGbWvUx.jpeg"},
             {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/5s9QIlv.jpeg"},
@@ -25,7 +25,7 @@
         },
         {
           "dayName": "Tuesday",
-          "date": "2024-12-17",
+          "date": "Dec. 17",
           "activities": [
             {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/wWebsta.jpeg"},
             {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/NkXhwHV.jpeg"},
@@ -36,7 +36,7 @@
         },
         {
           "dayName": "Wednesday",
-          "date": "2024-12-18",
+          "date": "Dec. 18",
           "activities": [
             {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/57mVW99.jpeg"},
             {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/jHGeCDp.jpeg"},
@@ -47,7 +47,7 @@
         },
         {
           "dayName": "Thursday",
-          "date": "2024-12-19",
+          "date": "Dec. 19",
           "activities": [
             {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/sIuqBHY.jpeg"},
             {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/nu82Ies.jpeg"},
@@ -58,7 +58,7 @@
         },
         {
           "dayName": "Friday",
-          "date": "2024-12-20",
+          "date": "Dec. 20",
           "activities": [
             {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/6SPJFgz.jpeg"},
             {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/EsqUagy.jpeg"},
@@ -69,7 +69,7 @@
         },
         {
           "dayName": "Saturday",
-          "date": "2024-12-21",
+          "date": "Dec. 21",
           "activities": [
             {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/NaYuwBP.jpeg"},
             {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/n2DDGph.jpeg"},
@@ -80,7 +80,7 @@
         },
         {
           "dayName": "Sunday",
-          "date": "2024-12-22",
+          "date": "Dec. 22",
           "activities": [
             {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/kDwvGtr.jpeg"},
             {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/eVZFr9h.jpeg"},
