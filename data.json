@@ -16,71 +16,71 @@
           "dayName": "Monday",
           "date": "Dec. 16",
           "activities": [
-            {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/WGbWvUx.jpeg"},
-            {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/5s9QIlv.jpeg"},
-            {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "Workshop", "Time": "12:00", "Location": "Room 3", "Image": "https://i.imgur.com/FbEjpQF.jpeg"},
-            {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "Presentation", "Time": "14:00", "Location": "Room 4", "Image": "https://i.imgur.com/E0IHC1x.jpeg"},
-            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/TCOPOF7.jpeg"}
+            {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00 - 00:00", "Location": "Room 1", "Image": "https://i.imgur.com/WGbWvUx.jpeg"},
+            {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00 - 00:00", "Location": "Room 2", "Image": "https://i.imgur.com/5s9QIlv.jpeg"},
+            {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "Workshop", "Time": "12:00 - 00:00", "Location": "Room 3", "Image": "https://i.imgur.com/FbEjpQF.jpeg"},
+            {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "Presentation", "Time": "14:00 - 00:00", "Location": "Room 4", "Image": "https://i.imgur.com/E0IHC1x.jpeg"},
+            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00 - 00:00", "Location": "Room 5", "Image": "https://i.imgur.com/TCOPOF7.jpeg"}
           ]
         },
         {
           "dayName": "Tuesday",
           "date": "Dec. 17",
           "activities": [
-            {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/wWebsta.jpeg"},
-            {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/NkXhwHV.jpeg"},
-            {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "Workshop", "Time": "12:00", "Location": "Room 3", "Image": "https://i.imgur.com/mJ8PYvM.jpeg"},
-            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/WXDnijf.jpeg"}
+            {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00 - 00:00", "Location": "Room 1", "Image": "https://i.imgur.com/wWebsta.jpeg"},
+            {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00 - 00:00", "Location": "Room 2", "Image": "https://i.imgur.com/NkXhwHV.jpeg"},
+            {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "Workshop", "Time": "12:00 - 00:00", "Location": "Room 3", "Image": "https://i.imgur.com/mJ8PYvM.jpeg"},
+            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00 - 00:00", "Location": "Room 5", "Image": "https://i.imgur.com/WXDnijf.jpeg"}
           ]
         },
         {
           "dayName": "Wednesday",
           "date": "Dec. 18",
           "activities": [
-            {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/57mVW99.jpeg"},
-            {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/jHGeCDp.jpeg"},
-            {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "Workshop", "Time": "12:00", "Location": "Room 3", "Image": "https://i.imgur.com/fYQX5hU.jpeg"},
-            {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "Presentation", "Time": "14:00", "Location": "Room 4", "Image": "https://i.imgur.com/v5kwwIz.jpeg"},
-            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/ykkPDrT.jpeg"}
+            {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00 - 00:00", "Location": "Room 1", "Image": "https://i.imgur.com/57mVW99.jpeg"},
+            {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00 - 00:00", "Location": "Room 2", "Image": "https://i.imgur.com/jHGeCDp.jpeg"},
+            {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "Workshop", "Time": "12:00 - 00:00", "Location": "Room 3", "Image": "https://i.imgur.com/fYQX5hU.jpeg"},
+            {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "Presentation", "Time": "14:00 - 00:00", "Location": "Room 4", "Image": "https://i.imgur.com/v5kwwIz.jpeg"},
+            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00 - 00:00", "Location": "Room 5", "Image": "https://i.imgur.com/ykkPDrT.jpeg"}
           ]
         },
         {
           "dayName": "Thursday",
           "date": "Dec. 19",
           "activities": [
-            {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/sIuqBHY.jpeg"},
-            {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/nu82Ies.jpeg"},
-            {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "Presentation", "Time": "14:00", "Location": "Room 4", "Image": "https://i.imgur.com/hceM2Qy.jpeg"},
-            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/otHc8bm.jpeg"}
+            {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00 - 00:00", "Location": "Room 1", "Image": "https://i.imgur.com/sIuqBHY.jpeg"},
+            {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00 - 00:00", "Location": "Room 2", "Image": "https://i.imgur.com/nu82Ies.jpeg"},
+            {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "Presentation", "Time": "14:00 - 00:00", "Location": "Room 4", "Image": "https://i.imgur.com/hceM2Qy.jpeg"},
+            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00 - 00:00", "Location": "Room 5", "Image": "https://i.imgur.com/otHc8bm.jpeg"}
           ]
         },
         {
           "dayName": "Friday",
           "date": "Dec. 20",
           "activities": [
-            {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "Workshop", "Time": "12:00", "Location": "Room 3", "Image": "https://i.imgur.com/3V5bASh.jpeg"},
-            {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "Presentation", "Time": "14:00", "Location": "Room 4", "Image": "https://i.imgur.com/IlVcg5r.jpeg"},
-            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/ssWTLTs.jpeg"}
+            {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "Workshop", "Time": "12:00 - 00:00", "Location": "Room 3", "Image": "https://i.imgur.com/3V5bASh.jpeg"},
+            {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "Presentation", "Time": "14:00 - 00:00", "Location": "Room 4", "Image": "https://i.imgur.com/IlVcg5r.jpeg"},
+            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00 - 00:00", "Location": "Room 5", "Image": "https://i.imgur.com/ssWTLTs.jpeg"}
           ]
         },
         {
           "dayName": "Saturday",
           "date": "Dec. 21",
           "activities": [
-            {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/NaYuwBP.jpeg"},
-            {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/n2DDGph.jpeg"},
-            {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "Workshop", "Time": "12:00", "Location": "Room 3", "Image": "https://i.imgur.com/mk1Z09r.jpeg"},
-            {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "Presentation", "Time": "14:00", "Location": "Room 4", "Image": "https://i.imgur.com/iwa7BCL.jpeg"},
-            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/NBY13cs.jpeg"}
+            {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00 - 00:00", "Location": "Room 1", "Image": "https://i.imgur.com/NaYuwBP.jpeg"},
+            {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00 - 00:00", "Location": "Room 2", "Image": "https://i.imgur.com/n2DDGph.jpeg"},
+            {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "Workshop", "Time": "12:00 - 00:00", "Location": "Room 3", "Image": "https://i.imgur.com/mk1Z09r.jpeg"},
+            {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "Presentation", "Time": "14:00 - 00:00", "Location": "Room 4", "Image": "https://i.imgur.com/iwa7BCL.jpeg"},
+            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00 - 00:00", "Location": "Room 5", "Image": "https://i.imgur.com/NBY13cs.jpeg"}
           ]
         },
         {
           "dayName": "Sunday",
           "date": "Dec. 22",
           "activities": [
-            {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/kDwvGtr.jpeg"},
-            {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/eVZFr9h.jpeg"},
-            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/nQWlZkA.jpeg"}
+            {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "Meeting", "Time": "08:00 - 00:00", "Location": "Room 1", "Image": "https://i.imgur.com/kDwvGtr.jpeg"},
+            {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "Call", "Time": "10:00 - 00:00", "Location": "Room 2", "Image": "https://i.imgur.com/eVZFr9h.jpeg"},
+            {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "Review", "Time": "16:00 - 00:00", "Location": "Room 5", "Image": "https://i.imgur.com/nQWlZkA.jpeg"}
           ]
         }
       ]
