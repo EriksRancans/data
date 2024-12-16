@@ -10,39 +10,91 @@
       "host": "dashboard-stage.vilmer.no",
       "path": ["new-calendar"]
     },
-    "activities": {
-      "Mo": [
-        {"id": 1, "titile": "Team Meeting", "type": 2, "time": "10:00"},
-        {"id": 2, "titile": "Client Check-In", "type": 1, "time": "13:00"}
-      ],
-      "Tu": [
-        {"id": 3, "titile": "Workshop", "type": 1, "time": "11:00"}
-      ],
-      "We": [
-        {"id": 4, "titile": "Client Presentation", "type": 3, "time": "14:00"},
-        {"id": 5, "titile": "Team Lunch", "type": 2, "time": "12:00"},
-        {"id": 6, "titile": "One-on-One", "type": 1, "time": "16:00"}
-      ],
-      "Th": [
-        {"id": 7, "titile": "Marketing Review", "type": 2, "time": "16:00"}
-      ],
-      "Fr": [
-        {"id": 8, "titile": "Product Development Meeting", "type": 1, "time": "09:00"},
-        {"id": 9, "titile": "End of Week Review", "type": 3, "time": "15:00"}
-      ],
-      "Sa": [
-        {"id": 10, "titile": "Strategy Session", "type": 3, "time": "10:00"},
-        {"id": 11, "titile": "Budget Planning", "type": 2, "time": "14:00"},
-        {"id": 12, "titile": "Team Building Activity", "type": 1, "time": "17:00"}
-      ],
-      "Su": [
-        {"id": 13, "titile": "Budget Review", "type": 2, "time": "15:00"}
-      ]
+    "week": {
+      "Mo": {
+        "dayName": "Monday",
+        "date": "2024-12-16",
+        "activities": [
+          {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "1", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/WGbWvUx.jpeg"},
+          {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "2", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/5s9QIlv.jpeg"},
+          {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "3", "Time": "12:00", "Location": "Room 3", "Image": "https://i.imgur.com/FbEjpQF.jpeg"},
+          {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "4", "Time": "14:00", "Location": "Room 4", "Image": "https://i.imgur.com/E0IHC1x.jpeg"},
+          {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "5", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/TCOPOF7.jpeg"}
+        ]
+      },
+      "Tu": {
+        "dayName": "Tuesday",
+        "date": "2024-12-17",
+        "activities": [
+          {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "1", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/wWebsta.jpeg"},
+          {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "2", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/NkXhwHV.jpeg"},
+          {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "3", "Time": "12:00", "Location": "Room 3", "Image": "https://i.imgur.com/mJ8PYvM.jpeg"},
+          {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "4", "Time": "14:00", "Location": "Room 4", "Image": "https://i.imgur.com/NX2EvWR.jpeg"},
+          {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "5", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/WXDnijf.jpeg"}
+        ]
+      },
+      "We": {
+        "dayName": "Wednesday",
+        "date": "2024-12-18",
+        "activities": [
+          {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "1", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/57mVW99.jpeg"},
+          {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "2", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/jHGeCDp.jpeg"},
+          {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "3", "Time": "12:00", "Location": "Room 3", "Image": "https://i.imgur.com/fYQX5hU.jpeg"},
+          {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "4", "Time": "14:00", "Location": "Room 4", "Image": "https://i.imgur.com/v5kwwIz.jpeg"},
+          {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "5", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/ykkPDrT.jpeg"}
+        ]
+      },
+      "Th": {
+        "dayName": "Thursday",
+        "date": "2024-12-19",
+        "activities": [
+          {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "1", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/sIuqBHY.jpeg"},
+          {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "2", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/nu82Ies.jpeg"},
+          {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "3", "Time": "12:00", "Location": "Room 3", "Image": "https://i.imgur.com/jnnEP2T.jpeg"},
+          {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "4", "Time": "14:00", "Location": "Room 4", "Image": "https://i.imgur.com/hceM2Qy.jpeg"},
+          {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "5", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/otHc8bm.jpeg"}
+        ]
+      },
+      "Fr": {
+        "dayName": "Friday",
+        "date": "2024-12-20",
+        "activities": [
+          {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "1", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/6SPJFgz.jpeg"},
+          {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "2", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/EsqUagy.jpeg"},
+          {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "3", "Time": "12:00", "Location": "Room 3", "Image": "https://i.imgur.com/3V5bASh.jpeg"},
+          {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "4", "Time": "14:00", "Location": "Room 4", "Image": "https://i.imgur.com/IlVcg5r.jpeg"},
+          {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "5", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/ssWTLTs.jpeg"}
+        ]
+      },
+      "Sa": {
+        "dayName": "Saturday",
+        "date": "2024-12-21",
+        "activities": [
+          {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "1", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/NaYuwBP.jpeg"},
+          {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "2", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/n2DDGph.jpeg"},
+          {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "3", "Time": "12:00", "Location": "Room 3", "Image": "https://i.imgur.com/mk1Z09r.jpeg"},
+          {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "4", "Time": "14:00", "Location": "Room 4", "Image": "https://i.imgur.com/iwa7BCL.jpeg"},
+          {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "5", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/NBY13cs.jpeg"}
+        ]
+      },
+      "Su": {
+        "dayName": "Sunday",
+        "date": "2024-12-22",
+        "activities": [
+          {"Title": "Placeholder Title 1", "Description": "Placeholder Description 1", "Type": "1", "Time": "08:00", "Location": "Room 1", "Image": "https://i.imgur.com/kDwvGtr.jpeg"},
+          {"Title": "Placeholder Title 2", "Description": "Placeholder Description 2", "Type": "2", "Time": "10:00", "Location": "Room 2", "Image": "https://i.imgur.com/eVZFr9h.jpeg"},
+          {"Title": "Placeholder Title 3", "Description": "Placeholder Description 3", "Type": "3", "Time": "12:00", "Location": "Room 3", "Image": "https://i.imgur.com/PCA3Rml.jpeg"},
+          {"Title": "Placeholder Title 4", "Description": "Placeholder Description 4", "Type": "4", "Time": "14:00", "Location": "Room 4", "Image": "https://i.imgur.com/DoWHM9D.jpeg"},
+          {"Title": "Placeholder Title 5", "Description": "Placeholder Description 5", "Type": "5", "Time": "16:00", "Location": "Room 5", "Image": "https://i.imgur.com/nQWlZkA.jpeg"}
+        ]
+      }
     },
     "activityTypes": {
-      "1": "Meeting",
-      "2": "Review",
-      "3": "Presentation"
+      "1": "1s and general gatherings",
+      "2": "Teleconferences and 2s",
+      "3": "Interactive sessions",
+      "4": "Public or private 4s",
+      "5": "5 sessions or feedback 1s"
     },
     "activityView": "compact_week",
     "isPrintView": false,
